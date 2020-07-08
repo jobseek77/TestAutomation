@@ -1,0 +1,5 @@
+com\testngdemo\automation\utils\CaptureSnapshot.class
+com\testngdemo\automation\App.class
+com\testngdemo\automation\webdriver\ElementsUtil.class
+com\testngdemo\automation\pages\Page.class
+com\testngdemo\automation\pages\GoogleLandingPage.class
